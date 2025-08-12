@@ -38,7 +38,7 @@ Skin cancer detection is a domain where machine learning can provide real-world 
 
 ## Techniques Used
 
-- **Transfer Learning** with pre-trained CNN backbones (e.g., EfficientNet, ResNet)  
+- **Transfer Learning** with pre-trained CNN backbones (MobileNetV2)  
 - **Data Augmentation** to address class imbalance and overfitting  
 - **Class-wise evaluation** using confusion matrices  
 - **Validation and test split** to assess generalization  
